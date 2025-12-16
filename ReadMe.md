@@ -65,7 +65,7 @@ The dataset was obtained from:
 
 ## Medium Article
 
-A detailed walkthrough of this project — including SQL logic, Python visuals, and business insights — is available on Medium:  
+A detailed walkthrough of this project, including SQL logic, Python visuals and business insights is available on Medium:  
 [Customer Profiling with SQL and Python: Understanding Treadmill Buyers](https://medium.com/@bitoskostas1/customer-profiling-with-sql-and-python-understanding-treadmill-buyers-44fd4db1bbc9)
 
 ---
