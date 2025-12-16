@@ -44,12 +44,12 @@ The dataset was obtained from:
 ## Analysis Steps
 
 ### SQL Analysis
-- Calculated average **age**, **fitness**, and **income** per product  
-- Explored **gender** and **marital status** distribution  
+- Calculated average age, fitness, and income per product  
+- Explored gender and marital status distribution  
 
 ### Python Descriptive Analytics
 - Computed averages and visualized distributions (bar, box, and histogram plots)  
-- Created **two-way contingency tables** to compute marginal and conditional probabilities  
+- Created two-way contingency tables to compute marginal and conditional probabilities  
 
 ---
 
